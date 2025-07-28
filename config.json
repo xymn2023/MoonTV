@@ -112,6 +112,42 @@
     "yaya": {
       "api": "https://cj.yayazy.net/api.php/provide/vod",
       "name": "鸭鸭资源"
+    },
+    "ckzy": {
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "CK资源"
+    },
+    "jkun": {
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "name": "jkun资源"
+    },
+    "bwzy": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "百万资源"
+    },
+    "souav": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "name": "souav资源"
+    },
+    "huangcang": {
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "name": "黄色仓库"
+    },
+    "yutu": {
+      "api": "https://apiyutu.com/api.php/providedao/vod",
+      "name": "玉兔资源"
+    },
+    "nxzy": {
+      "api": "https://naixxzy.com/api.php/provide/vod",
+      "name": "奶香资源"
+    },
+    "slzy": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "森林资源"
+    },
+    "asky": {
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "name": "奥斯卡源"
     }
   }
 }
